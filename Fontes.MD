@@ -22,3 +22,20 @@ Unidade: Mudança Percentual
 
 https://fred.stlouisfed.org/series/POILAPSPUSDM
 
+
+
+mudei a unidade de mudança percentual pra dolar por tonelada metrica
+
+
+PIB
+
+https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
+
+
+
+
+https://dadosabertos.bcb.gov.br/dataset/11-taxa-de-juros---selic
+
+
+
+
